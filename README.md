@@ -4,7 +4,7 @@
 1. Clone the repo.
 2. Yarn install / yarn start
 
-Structure of the app:
+### Structure of the app:
 - The folder lib contains game logic. Then I created the 
 - In actions folder I imported the randomWord function of the logic and exported the 2 actions (NewGame and makeGuess).
 - Passed those actions to the reducers, one for the game and another for the guesses.
