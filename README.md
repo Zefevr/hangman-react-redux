@@ -1,8 +1,9 @@
 ## The Hangman Game using React-redux:
 
 ### To run this project:
-1. Clone the repo.
-2. Yarn install / yarn start
+* Clone the repo.
+* Run 'yarn' to install dependencies.
+* Run 'yarn start'.
 
 ### Structure of the app:
 - The folder lib contains game logic. Then I created the 
