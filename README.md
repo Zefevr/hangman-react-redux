@@ -13,7 +13,7 @@
 * Run `yarn start`.
 
 ### Structure of the app:
-- The folder lib contains game logic. Then I created the 
+- The folder lib contains game logic.
 - In actions folder I imported the randomWord function of the logic and exported the 2 actions (NewGame and makeGuess).
 - Passed those actions to the reducers, one for the game and another for the guesses.
 - The components, hangman for the total game and letters for each guess.
