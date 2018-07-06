@@ -2,8 +2,8 @@
 
 ### To run this project:
 * Clone the repo.
-* Run 'yarn' to install dependencies.
-* Run 'yarn start'.
+* Run `yarn` to install dependencies.
+* Run `yarn start`.
 
 ### Structure of the app:
 - The folder lib contains game logic. Then I created the 
